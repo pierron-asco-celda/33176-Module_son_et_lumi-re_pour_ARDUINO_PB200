@@ -11,13 +11,15 @@
 
 ## Caractéristiques techniques :
 
+-
+-
+-
+
 ## Ressource à télécharger
 
 - Documentation : [Télécharger](https://github.com/pierron-asco-celda/33176-Module_son_et_lumiere_pour_ARDUINO_PB200/blob/main/MODULE%20SON%20ET%20LUMI%C3%88RE%20POUR%20ARDUINO%20PB200.txt)
 
 ## Programme de démonstration
-
-- *** :
 
 ```cpp
 /*
