@@ -1,2 +1,12 @@
 Maquette MT33176
 
+
+Bouton poussoir vert: Entrée digitale 2
+Bouton poussoir jaune: Entrée digitale 3
+Bouton poussoir rouge: Entrée digitale 4
+Bouton poussoir bleu: Entrée digitale 5
+DEL verte : Sortie digitale 11
+DEL jaune : Sortie digitale 11
+DEL rouge : Sortie digitale 11
+DEL bleue : Sortie digitale 11
+Buzzer : Sortie digitale 12
