@@ -11,11 +11,15 @@
 
 ## Caractéristiques techniques :
 
--
+- Compatible Arduino™ Nano *l'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
 -
 -
 
-## Ressource à télécharger
+## Ressources à télécharger
+
+- Arduino IDE : [Télécharger](https://www.arduino.cc/en/software)
+
+- mBlock : [Télécharger](https://mblock.cc/pages/downloads)
 
 - Documentation : [Télécharger](https://github.com/pierron-asco-celda/33176-Module_son_et_lumiere_pour_ARDUINO_PB200/blob/main/MODULE%20SON%20ET%20LUMI%C3%88RE%20POUR%20ARDUINO%20PB200.txt)
 
