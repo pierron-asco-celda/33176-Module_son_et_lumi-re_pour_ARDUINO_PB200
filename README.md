@@ -11,9 +11,11 @@
 
 ## Caractéristiques techniques :
 
-- Compatible Arduino™ Nano *l'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
+- Compatible Arduino™ Nano*
 -
 -
+
+\*l'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
 
 ## Ressources à télécharger
 
