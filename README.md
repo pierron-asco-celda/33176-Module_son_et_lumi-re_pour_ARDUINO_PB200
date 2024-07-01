@@ -14,6 +14,12 @@ Cette maquette permet aux élèves de programmer l’émission de signaux sonore
 
 - Compatible Arduino™ Nano*
 
+- 4 diodes électroluminescente
+
+- 4 boutons poussoir
+
+- 1 Buzzer
+
 \*L'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
 
 ## Ressources à télécharger
