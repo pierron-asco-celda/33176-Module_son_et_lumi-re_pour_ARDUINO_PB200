@@ -15,7 +15,7 @@
 -
 -
 
-\*l'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
+\*L'utilisation d'une carte non officielle peut altérer et restreindre l'expérience d'utilisation de la maquette !
 
 ## Ressources à télécharger
 
