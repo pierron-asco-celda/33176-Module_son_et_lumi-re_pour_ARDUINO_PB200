@@ -1,25 +1,3 @@
-# [33176](https://www.pierron.fr)-Module_son_et_lumière_pour_ARDUINO_PB200
-
-<p align='center' width="100%">
-    <img width="50%" src=" ">
-</p>
-
-<div align='justify'>
-
-
-</div>
-
-## Caractéristiques techniques :
-
-## Ressource à télécharger
-
-- Documentation : [Télécharger]()
-
-## Programme de démonstration
-
-- *** :
-
-```cpp
 /*
    "MICROCONTRÔLEUR ARDUINO SON ET LUMIÈRE PB200" Pierron référence 33176
    Programme V1.0 : "Programme"
@@ -97,11 +75,3 @@ void loop() {
     digitalWrite(DEL_BLEUE, LOW);
   }
 }
-```
-
-#### À propos :
-<div align='center'>
-
-© [PIERRON - ASCO & CELDA](https://www.pierron.fr) 2024 - 62 rue de Siltzheim - 57200 RÉMELFING - France
-
-</div>
