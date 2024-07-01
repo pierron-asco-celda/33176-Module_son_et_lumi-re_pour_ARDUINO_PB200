@@ -2,6 +2,8 @@
    "MICROCONTRÔLEUR ARDUINO SON ET LUMIÈRE PB200" Pierron référence 33176
    Programme V1.0 : "Programme"
    Rédacteur : M. PAUL Pierre 2024
+
+   *L'utilisation d'une carte non officielle nécessite la configuration "Old Booltloader" !
 */
 
 // Déclarations des entrées et sorties.
